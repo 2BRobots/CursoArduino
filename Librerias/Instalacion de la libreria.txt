@@ -1,0 +1,3 @@
+Atencion:
+
+Para instalar las librerias debe copiar las carpetas "LCDTouch_UNO" y "UTFT_for_mega" en el directorio donde se instalo el IDE de Arduino dentro de la carpeta "libraries"
