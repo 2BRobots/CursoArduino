@@ -1,7 +1,7 @@
 void setup() {
   // put your setup code here, to run once:
   pinMode(A0,INPUT);
-  Serial.begin(9600);  
+  Serial.begin(250000);  
   
 
 }
@@ -11,10 +11,8 @@ void loop() {
   float adc = 0;
   float v = 0;
 
-  adc = analogRead(A0);
 
-  v = (5*adc)/1023;
-  Serial.println(v);
-  delay(5);
+  Serial.println(analogRead(A1));
+  delay(100);
 
 }
