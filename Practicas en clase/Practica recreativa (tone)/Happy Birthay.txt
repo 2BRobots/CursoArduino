@@ -1,0 +1,52 @@
+262 hz , 400 ms ' hap
+waitms 100
+262 hz , 400 ms ' py
+waitms 100
+294 hz, 800 ms  ' birth
+waitms 100
+262 hz, 800 ms  ' day
+waitms 100
+349 hz, 800 ms  ' to
+waitms 100
+330 hz, 1000 ms ' you
+waitms 200
+
+262 hz , 400 ms ' hap
+waitms 100
+262 hz, 400 ms  ' py
+waitms 100
+294 hz, 800 ms  ' birth
+waitms 100
+262 hz, 800 ms  ' day
+waitms 100
+392 hz, 800 ms  ' to
+waitms 100
+349 hz, 1000 ms ' you
+waitms 200
+
+262 hz , 400 ms ' hap
+waitms 100
+262 hz, 400 ms  ' py
+waitms 100
+523 hz, 700 ms  ' birth
+waitms 100
+440 hz, 800 ms  ' day
+waitms 100
+349 hz, 800 ms  ' dear
+waitms 100
+330 hz, 800 ms  ' xx
+waitms 100
+294 hz, 700 ms  ' xx
+waitms 100
+
+466 hz, 400 ms  ' hap
+waitms 100
+466 hz, 400 ms  ' py
+waitms 100
+440 hz, 700 ms  ' birth
+waitms 100
+349 hz, 800 ms  ' day
+waitms 100
+392 hz, 800 ms  ' to
+waitms 100
+349 hz, 1600 ms ' youuuuuuu
