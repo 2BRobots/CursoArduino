@@ -18,7 +18,7 @@ SIGNAL(TIMER0_COMPA_vect)
 if (x >= 2000) //cada 1.4 segundos se cumple
 {
 x = 0;
-digitalWrite(13, !(digitalRead(13)));
+digitalWrite(13, !(digitalRead(13))); //invierto el estado
 }
 x++;
 }
