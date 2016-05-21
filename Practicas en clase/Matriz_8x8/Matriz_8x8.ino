@@ -34,6 +34,7 @@ boolean matriz[8][8] =
 
 void setup() 
 {
+ 
 pinMode(f1,OUTPUT);
 pinMode(f2,OUTPUT);
 pinMode(f3,OUTPUT);
@@ -52,7 +53,7 @@ pinMode(c6,OUTPUT);
 pinMode(c7,OUTPUT);
 pinMode(c8,OUTPUT);
 
-OCR0A = 0xAF; 
+OCR0A = 0x32; 
 TIMSK0 |= _BV(OCIE0A);
 }
 
@@ -77,7 +78,7 @@ for(byte c=0 ;c<=7;c++)
   digitalWrite(c8, HIGH);
   digitalWrite(pincol[c], LOW);
   
-  for(byte f=0;f<=0;f++)
+  for(byte f=0;f<=7;f++)
   {
     if(f>0)
     {
