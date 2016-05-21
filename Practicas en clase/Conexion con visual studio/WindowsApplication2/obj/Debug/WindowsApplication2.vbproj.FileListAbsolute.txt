@@ -38,3 +38,6 @@ C:\Users\David Fernandez\Desktop\WindowsApplication2\bin\Debug\Led Inalambrico  
 C:\Users\David Fernandez\Desktop\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.exe.manifest
 C:\Users\David Fernandez\Desktop\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.application
 C:\Users\David Fernandez\Desktop\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.exe
+C:\Users\David Fernandez\Documents\GitHub\CursoArduino\Practicas en clase\Conexion con visual studio\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.exe
+C:\Users\David Fernandez\Documents\GitHub\CursoArduino\Practicas en clase\Conexion con visual studio\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.xml
+C:\Users\David Fernandez\Documents\GitHub\CursoArduino\Practicas en clase\Conexion con visual studio\WindowsApplication2\obj\Debug\Led Inalambrico  Serie-TTL.pdb
