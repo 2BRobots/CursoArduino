@@ -14,10 +14,7 @@ void setup()
   pinMode(in3Pin, OUTPUT);
   pinMode(in4Pin, OUTPUT);
  
-  // this line is for Leonardo's, it delays the serial interface
-  // until the terminal window is opened
-  while (!Serial);
-  
+
   Serial.begin(9600);
   motor.setSpeed(20);
 }
